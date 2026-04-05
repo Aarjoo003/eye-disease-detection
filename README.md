@@ -1,4 +1,5 @@
 👁️ Eye Disease Detection System (AI-Powered)
+
 🚀 Project Overview
 This project is an AI-driven diagnostic tool designed to assist in the early detection of various eye conditions using Retinal Fundus images. Developed as a 3rd-year project at SGSITS, Indore, it leverages Deep Learning (Transfer Learning) to provide real-time screening.
 
