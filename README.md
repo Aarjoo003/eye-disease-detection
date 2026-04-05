@@ -4,7 +4,7 @@ This project is an AI-driven diagnostic tool designed to assist in the early det
 
 🌐 Live Demo
 You can access the live working version of this project here:
-👉 Eye Disease AI Dashboard-https://huggingface.co/spaces/aarzoodahiya81/eye-disease-detection
+👉https://huggingface.co/spaces/aarzoodahiya81/eye-disease-detection
 
 🔍 Key Features:
 Instant Analysis: Upload a retinal scan and get results in seconds.
